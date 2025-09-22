@@ -3,4 +3,4 @@ This code evaluates key metrics to compare PancakeSwap and SushiSwap, two leadin
 
 👉 View the live dashboard here:
 
-[Comparative Analysis](https://dune.com/jhaybeeofdefi/relend-network-tvl-distribution](https://dune.com/jhaybeeofdefi/capstone-project)
+[Comparative Analysis](https://dune.com/jhaybeeofdefi/capstone-project)
